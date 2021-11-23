@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "needle": "^3.0.0",
+    "puppeteer": "^11.0.0"
+  }
+}
